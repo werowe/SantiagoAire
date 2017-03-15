@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SantiagoAire</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="sobre">Sobre</string>
+           
+    <string name="title_activity_quake_detail">Sismos Chile</string>
+     <string name="title_share">Compartir</string>
+
+</resources>
